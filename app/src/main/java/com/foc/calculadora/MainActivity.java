@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
     public void inicializar()
     {
     	estadoCalculadora=eEstado.Operando1;
-    	tv.setText("");
+    	tv.setText(" ");
     	operando1=0;
     	operando2=0;
     	iNumeroPuntos=0;
